@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757628954740",
+    "firebase_url": "https://registerandlogin-b2557.firebaseio.com",
+    "project_id": "registerandlogin-b2557",
+    "storage_bucket": "registerandlogin-b2557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757628954740:android:7f15c31a2888e41bfe0921",
+        "android_client_info": {
+          "package_name": "com.example.registerandloginmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757628954740-srufucbkrk1js4evip2vgj5hg3vc5nlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registerandloginmodule",
+            "certificate_hash": "9be05ea3a837b36e0744e62540221c13bbb090b8"
+          }
+        },
+        {
+          "client_id": "757628954740-ofk1cg3ldcds750oc4ol7i0dnboume2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDALdkKalXHRS_CGENfgqIscmKD2oRXnBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757628954740-ofk1cg3ldcds750oc4ol7i0dnboume2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
